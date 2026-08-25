@@ -28,15 +28,13 @@
 
 # \## 📁 Repository Directory Layout
 
-# 
+The codebase is partitioned modularly to track structured problem-solving across core concepts:
 
-# \*   \*\*`01-Arrays-and-Strings/`\*\*: Sub-array optimizations and string mutations.
-
-# \*   \*\*`02-Two-Pointers/`\*\*: Linear sequence scanning techniques.
-
-# \*   \*\*`03-Hashing/`\*\*: Accelerated key-value caching maps (`std::unordered\_map`).
-
-# 
+*   **`75 problems study paln/`**: Curated solutions focused on high-frequency interview patterns.
+*   **`Arrays/`**: Multi-dimensional indexing, search optimizations, and linear tracking mechanics.
+*   **`Hash_maps/`**: Frequency count maps and lookup optimizations using `std::unordered_map`.
+*   **`Stacks/`**: LIFO sequence parsing, string evaluations, and monotonic stack tracking.
+*   **`Strings/`**: Character array mutations, pattern matching, and slice filtering.
 
 # \---
 
